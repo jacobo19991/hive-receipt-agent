@@ -1,0 +1,1 @@
+"""Hive receipt agent package."""
